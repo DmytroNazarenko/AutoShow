@@ -1,0 +1,36 @@
+<purchases>
+  <Purchase ClientId="1" SellerId="6">
+    <Date>27.05.2016 23:20:43</Date>
+    <Seller>
+      <Name>Дмитрий   </Name>
+      <Surname>Коваленко </Surname>
+      <Phone>Отсутствует</Phone>
+    </Seller>
+    <Client>
+      <Surname>Логвиненко</Surname>
+      <Name>Андрей    </Name>
+    </Client>
+    <Auto>
+      <Brand>Audi</Brand>
+      <Model>A6</Model>
+      <Price>800000</Price>
+    </Auto>
+  </Purchase>
+  <Purchase ClientId="11" SellerId="6">
+    <Date>28.05.2016 15:08:56</Date>
+    <Seller>
+      <Name>Дмитрий   </Name>
+      <Surname>Коваленко </Surname>
+      <Phone>Отсутствует</Phone>
+    </Seller>
+    <Client>
+      <Surname>Джафаров  </Surname>
+      <Name>Эмиль     </Name>
+    </Client>
+    <Auto>
+      <Brand>Ford</Brand>
+      <Model>Focus</Model>
+      <Price>100000</Price>
+    </Auto>
+  </Purchase>
+</purchases>

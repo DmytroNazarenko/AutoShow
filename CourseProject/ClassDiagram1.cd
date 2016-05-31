@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CourseProject.Controller.ApiHandler">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAQAAIAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Controller\ApiHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseProject.Controller.DataHandler" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABgIAAAAAAQAAAAAAAAAAAAAAAACAAAAAAAAAIA=</HashCode>
+      <FileName>Controller\DataHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseProject.Controller.NoteDateParser" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Controller\NoteDateParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseProject.Controller.SellerManager" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAgAACAAAAQgAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Controller\SellerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseProject.Controller.XmlHandler" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAIAAAAAAAAAAAAAAEAIAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\XmlHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseProject.Model.Auto" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAQAAgAAAAAAAAAAAAAAAAABBBAgAgAABAAA=</HashCode>
+      <FileName>Model\Auto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseProject.Model.User" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQABAAAAAAAAAAAIAAAAAQ=</HashCode>
+      <FileName>Model\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
